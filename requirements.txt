@@ -1,0 +1,6 @@
+dash
+plotly
+dash-bootstrap-components
+sqlalchemy
+pandas
+pyforest
