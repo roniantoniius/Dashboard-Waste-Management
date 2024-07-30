@@ -71,7 +71,7 @@ cd Dashboard-Waste-Management
 ### Setting Up a Virtual Environment
 1. Create a virtual environment. You can name the environment `venv`:
 ```
-python -m venv nama_venv
+python -m venv venv
 ```
 2. Activate the virtual environment:
    - On Windows:
